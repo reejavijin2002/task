@@ -1,0 +1,98 @@
+body{
+    background-color: rgb(228, 231, 234);
+}
+.third{
+    background-color: rgb(255, 255, 255);
+    height: 70px;
+    width: 1070px;
+    display: flex;
+    padding: 15px;
+}
+a{
+    text-decoration: none;
+    padding: 10px;
+    color:  #393E46;
+    
+}
+.first{
+    background-color: rgb(216, 160, 6);
+}
+.fifth{
+    background-image: url(bannerimage.png);
+    height: 425px;
+    width: 1050px;
+    top: 0px;
+    padding: 1px 0px 0px 50px;
+}
+.sixth{
+    display: flex;
+
+}
+.seven{
+    background-color: aliceblue;
+    height: 150px;
+    width: 200px;
+    padding: 35px 0px 0px 0px;
+    border-radius: 20px;
+}
+.vijin{
+    display: flex;
+}
+.forth{
+    text-align: center;
+}
+.boxes{
+    display: flex;
+}
+.eight{
+    background-color: aliceblue;
+    height: 376px;
+    width: 250px;
+    border-radius: 15px;
+   
+}
+.ten{
+    background-color: aliceblue;
+    height: 295px;
+    width: 300px;
+    border-radius: 15px;
+    
+}
+.elevan{
+    background-color: aliceblue;
+    height: 376px;
+    width: 250px;
+    border-radius: 15px;
+
+}
+.second{
+    display: flex;
+    background-color: aliceblue;
+    
+}
+.tweleve{
+    height: 100px;
+    width: 218px;
+    padding: 10px;
+    background-color: rgb(228, 231, 234);
+    border: 5px solid aliceblue;
+    border-radius: 25px;
+}
+.thirteen{
+    background-color: aliceblue;
+    padding: 40px;
+
+}
+.forteen{
+    display: flex;
+}
+.fifteen{
+ 
+    height: 100px;
+    width: 300px;
+}
+#seventeen{
+    padding: 0px 10px;
+    height: 100px;
+    width: 300px;
+}
